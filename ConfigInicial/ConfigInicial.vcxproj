@@ -19,14 +19,16 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Main_P3.cpp" />
+    <ClCompile Include="..\..\..\ModeladoGeometrico\Main_Modelado.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Shader.h" />
-  </ItemGroup>
-  <ItemGroup>
+    <None Include="..\..\..\ModeladoGeometrico\Shader\core.frag" />
+    <None Include="..\..\..\ModeladoGeometrico\Shader\core.vs" />
     <None Include="Shader\core.frag" />
     <None Include="Shader\core.vs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\ModeladoGeometrico\Shader.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
