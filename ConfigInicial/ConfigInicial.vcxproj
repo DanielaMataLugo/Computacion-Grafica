@@ -23,11 +23,11 @@
     <ClInclude Include="Camera.h" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Shader\modelLoading.frag" />
-    <None Include="Shader\modelLoading.vs" />
+    <None Include="Shader\lamp.frag" />
+    <None Include="Shader\lamp.vs" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Practica6.cpp" />
+    <ClCompile Include="Texturizado.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
