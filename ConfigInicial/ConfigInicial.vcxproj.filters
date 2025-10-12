@@ -26,7 +26,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Iluminacion.cpp">
+    <ClCompile Include="Pract8.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>

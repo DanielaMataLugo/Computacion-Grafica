@@ -23,7 +23,7 @@
     <ClInclude Include="Camera.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Iluminacion.cpp" />
+    <ClCompile Include="Pract8.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Shader\lamp.frag" />
